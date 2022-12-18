@@ -6,6 +6,7 @@ import smtplib
 from lxml import html
 
 load_dotenv()
+
 EMAIL1 = os.getenv("EMAIL1")
 EMAIL2 = os.getenv("EMAIL2")
 PASSWORD = os.getenv("PASSWORD")
