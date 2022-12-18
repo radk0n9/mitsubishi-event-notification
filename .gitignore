@@ -1,0 +1,6 @@
+.env
+.idea
+venv
+kivy_venv
+mit.kv
+main2.py
